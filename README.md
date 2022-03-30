@@ -4,7 +4,8 @@
 1. Run the docker-compose file
 ```bash
 $ docker-compose up
-```2. Send requests from Postman 
+```
+2. Send requests from Postman 
 3. Scaling - edit docker-compose file to add another consumer and see the ride requests being served by all consumers
 
 
