@@ -1,4 +1,10 @@
-# Building Microservice Communication With RabbitMQ
+# Building Microservice Communication With RabbitMQ - Cloud Computing Hackathon
+
+## Steps to run
+1. Run the docker-compose file
+``docker-compose up``
+2. Send requests from Postman 
+
 
 ## Introduction
 
